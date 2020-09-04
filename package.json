@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodycastillo/countdown/issues"
   },
-  "homepage": "https://github.com/rodycastillo/countdown#readme"
+  "homepage": "https://github.com/rodycastillo/countdown#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
